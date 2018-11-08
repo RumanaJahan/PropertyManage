@@ -54,7 +54,8 @@ namespace PropertyManagement
             Thread.Sleep(1000);
             skipbtn.Click();
             // Explicit Wait
-            Thread.Sleep(1000);
+            Thread.Sleep(1500);
+
             //Click on Owners tab
             Owners.Click();
             //Click Tenant Request option
